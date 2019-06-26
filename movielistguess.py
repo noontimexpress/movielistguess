@@ -8,7 +8,7 @@ movielist.append(secondmovie)
 like = int(input("Which one do you like better? " + firstmovie + " or " + secondmovie + "? " + "Please press 1 or 2: "))
 
 if like != 1:
-    movielist.reverse
+    movielist.reverse()
 
 
 def sortme():
