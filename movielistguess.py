@@ -1,5 +1,7 @@
-movielist = []
+#create array 
+movielist = [] 
 
+#sort first two items
 firstmovie = input("Enter a movie: ")
 movielist.append(firstmovie)
 secondmovie = input("Please enter another movie: ")
@@ -38,7 +40,3 @@ def sortme():
         recursive(x)
 
 sortme()
-
-
-
-
