@@ -1,2 +1,2 @@
 # movielistrank
-a study of recursion
+a study on recursion
